@@ -16,4 +16,4 @@ development/test cycles and deployment.
 - **Robotic Frameworks:** Proficient in R.O.S. and R.O.S. 2. frameworks for mobile robot navigation and manipulator motion planning. MRPT Mobile robot programming toolkit.
 - **Programming/Scripting:** Proficient in C, Embedded C, C++, and Python. Familiar with Java and C#.
 
-### Project Portfolio: [Swapnil's Portfolio](https://github.com/scifiswapnil/scifiswapnil/files/8918006/Swapnil.s.Portfolio.pdf)
+### [Project Portfolio:](https://github.com/scifiswapnil/scifiswapnil/files/8918006/Swapnil.s.Portfolio.pdf)
